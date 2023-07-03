@@ -1,0 +1,8 @@
+#include<stdio.h>
+#include<stdlib.h>
+void main(){
+int var = 4;
+scanf ("%d",& var);
+printf (" %d ",var + 6);
+printf ("himonsieurmarzak!");
+}

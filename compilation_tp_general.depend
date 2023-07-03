@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513579085 source:c:\users\fatna\desktop\c++\file\compilation_tp_general\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

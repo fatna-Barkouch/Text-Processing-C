@@ -1,0 +1,20 @@
+la ligne numero 1 ces proprietes sont : #include<stdio.h>
+include est un mot cle
+la ligne numero 2 ces proprietes sont : #include<stdlib.h>
+include est un mot cle
+la ligne numero 3 ces proprietes sont : void main(){
+void est un mot cle
+la ligne numero 4 ces proprietes sont : int var = 4;
+int est un mot cle
+= est un operateur 
+4 est un reel
+la ligne numero 5 ces proprietes sont : scanf ("%d",& var);
+& est un caractere special  
+la ligne numero 6 ces proprietes sont : printf (" %d ",var + 6);
+printf est un identifiant
++ est un operateur 
+6 est un reel
+la ligne numero 7 ces proprietes sont : printf ("himonsieurmarzak!");
+printf est un identifiant
+la ligne numero 8 ces proprietes sont : }w
+w est un mot cle
